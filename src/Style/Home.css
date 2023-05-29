@@ -1,0 +1,71 @@
+
+.img1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.whatsapp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.content1{
+    color:#ffffff;
+}
+.content2{
+    color:#ffffff;
+}
+
+.heading{
+    justify-content: center;
+    display: flex;
+
+}
+
+.chat{
+    display: flex;
+    margin-right: 100px;
+    margin-left: 100px;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+.comm{
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+}
+.benefits{
+    margin-top: 60px;
+}
+.benefit1{
+    margin-top: 10px;
+}
+
+.title1{
+    display:flex;
+    justify-content: center;
+}
+.text1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.benefit2{
+    margin-top: 10px;
+}
+
+
+.card1:hover{
+    transition-duration: 500ms;
+    height: 17rem;
+    font-size: 120%;
+}
+
+.title1:hover{
+    color: rgb(230, 115, 230);
+    font-size: 120%;
+}
+
