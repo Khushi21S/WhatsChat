@@ -23,7 +23,7 @@ function Home() {
                     </Row>
                     <Row>
                         <div className='content2'>
-                            <p className='chat'>WhatsApp integration with ChatGPT allows users to interact with the language model directly within the messaging app. Users can send messages to ChatGPT, receive responses, and <div className='engage'>engage in conversations seamlessly, providing a convenient and accessible way to access the AI-powered capabilities of ChatGPT on the WhatsApp platform.</div></p>
+                            <p className='chat'>WhatsApp integration with ChatGPT allows users to interact with the language model directly within the messaging app. Users can send messages to ChatGPT, receive responses, and engage in conversations seamlessly, providing a convenient and accessible way to access the AI-powered capabilities of ChatGPT on the WhatsApp platform.</p>
                         </div>
                     </Row>
                 </div>

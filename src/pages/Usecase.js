@@ -19,7 +19,7 @@ function Usecase() {
                     </Row>
                     <Row>
                         <div className='content2'>
-                            <p className='chat'><span classname ='engage'>Welcome to our web page highlighting the powerful integration of ChatGPT with WhatsApp. Discover how this seamless combination can revolutionize communication, enhance</span> productivity, and save valuable time and effort for users. In this comprehensive guide, we'll delve into compelling use cases, testimonials, and statistics that demonstrate the immense<span className='engage'>benefits of integrating ChatGPT with WhatsApp.</span></p>
+                            <p className='chat'>Welcome to our web page highlighting the powerful integration of ChatGPT with WhatsApp. Discover how this seamless combination can revolutionize communication, enhance productivity, and save valuable time and effort for users. In this comprehensive guide, we'll delve into compelling use cases, testimonials, and statistics that demonstrate the immense benefits of integrating ChatGPT with WhatsApp.</p>
                         </div>
                     </Row>
                 </div>
