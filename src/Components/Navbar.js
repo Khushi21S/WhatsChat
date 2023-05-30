@@ -25,7 +25,7 @@ function Navbar1() {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">
-                            <Nav.Link as={Link} to={"/Home"} href="#home">Home</Nav.Link>
+                            <Nav.Link as={Link} to={"/"} href="#home">Home</Nav.Link>
                             <Nav.Link as={Link} to={"/Usecase"} href="#usecase">Usecase</Nav.Link>
                             <Nav.Link as={Link} to={"/Payment"} href="#payment">Payments</Nav.Link>
                         </Nav>
