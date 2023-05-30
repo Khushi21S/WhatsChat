@@ -36,7 +36,6 @@ function Navbar1() {
     <div>
         <Routes>
             <Route path="/"  element={<Home/>} />
-            <Route exact path="/Home" element={<Home/>}/>
             <Route exact path="/Usecase" element={<Usecase/>}/>
             <Route exact path="/Payment" element={<Payment/>}/>
         </Routes>
